@@ -21,6 +21,8 @@ REST-API are Statless Backends
 
 ## Admin
 
+...
+
 ### /admin(id) : GET, POST, PATCH, DELETE
 
 ### /product(id) : GET, POST, PATCH, DELETE
